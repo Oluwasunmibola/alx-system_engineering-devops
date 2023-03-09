@@ -12,4 +12,6 @@
 
 6-firstdirectory: The comand in this file creates a directory in the specified folder.
 
+7-movethatfile: The command in this file is to move a file from a stated directory to another stated directory.
+
 
