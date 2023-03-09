@@ -24,4 +24,7 @@
 
 12-file_type: The command in this file returns the type which a file is.
 
+13-symbolic-link: This command creates a symbolic link.
+
+
 14-copy_html: This command copies a specific file from a stated directory to another.
