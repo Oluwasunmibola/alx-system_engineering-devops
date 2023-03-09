@@ -8,4 +8,6 @@
 
 4-listmorefiles: The command in the file displays the current working directory content inclusing the hidden files all in long format.
 
+5-listfilesdigitnly: The command in this file list all files in the working directory ad well as hidden files in a long format and also returns the group ID and user in digits only.
+
 
