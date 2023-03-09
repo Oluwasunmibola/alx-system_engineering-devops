@@ -23,3 +23,5 @@
 11-lists: The command in this file list all files in the current directory, parent directory and boot directory all in long format. Including the hidden files.
 
 12-file_type: The command in this file returns the type which a file is.
+
+14-copy_html: This command copies a specific file from a stated directory to another.
