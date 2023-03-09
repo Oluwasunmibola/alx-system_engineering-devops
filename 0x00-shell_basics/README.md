@@ -10,4 +10,6 @@
 
 5-listfilesdigitnly: The command in this file list all files in the working directory ad well as hidden files in a long format and also returns the group ID and user in digits only.
 
+6-firstdirectory: The comand in this file creates a directory in the specified folder.
+
 
