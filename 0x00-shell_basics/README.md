@@ -17,3 +17,5 @@
 8-firstdelete: The command in the file is to delete a file from a directory.
 
 9-firstdireletion: The command in this file is to delete a directory in a directory.
+
+10-back: The command in this file is to change the working directory to the previous one.
