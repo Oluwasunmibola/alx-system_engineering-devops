@@ -6,3 +6,6 @@
 
 3-listfile: The command in this file lists the files in a current directory in long format.
 
+4-listmorefiles: The command in the file displays the current working directory content inclusing the hidden files all in long format.
+
+
