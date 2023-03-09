@@ -14,4 +14,5 @@
 
 7-movethatfile: The command in this file is to move a file from a stated directory to another stated directory.
 
+8-firstdelete: The command in the file is to delete a file from a directory.
 
