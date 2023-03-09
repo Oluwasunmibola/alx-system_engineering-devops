@@ -19,3 +19,5 @@
 9-firstdireletion: The command in this file is to delete a directory in a directory.
 
 10-back: The command in this file is to change the working directory to the previous one.
+
+11-lists: The command in this file list all files in the current directory, parent directory and boot directory all in long format. Including the hidden files.
