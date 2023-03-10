@@ -27,3 +27,5 @@
 12-directory_permissions: Creating a directory and passing it's permissions
 
 13-change_group: Changing a group owner.
+
+100-change_owner_and_group: Changing owner and group of both files and subdirectories.
