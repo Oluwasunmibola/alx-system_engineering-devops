@@ -15,3 +15,5 @@
 6-multiple_permissions: giving multiplepermissions at once.
 
 7-everybody: givinf execute permission for all groups, owner and others.
+
+8-James_Bond: altering permissions for group, owner and others.
