@@ -17,3 +17,5 @@
 7-everybody: givinf execute permission for all groups, owner and others.
 
 8-James_Bond: altering permissions for group, owner and others.
+
+9-John_Doe: altering permission.
