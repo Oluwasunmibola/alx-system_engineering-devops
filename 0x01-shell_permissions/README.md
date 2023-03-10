@@ -19,3 +19,5 @@
 8-James_Bond: altering permissions for group, owner and others.
 
 9-John_Doe: altering permission.
+
+10-mirror_permissions: creating a mirror permission.
