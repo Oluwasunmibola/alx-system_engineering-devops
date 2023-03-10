@@ -11,3 +11,5 @@
 4-empty: Create an empty file.
 
 5-execute: Add execute permission to the user permission of a file.
+
+6-multiple_permissions: giving multiplepermissions at once.
