@@ -23,3 +23,5 @@
 10-mirror_permissions: creating a mirror permission.
 
 11-directories_permissions: Giving permissions to directory.
+
+12-directory_permissions: Creating a directory and passing it's permissions
