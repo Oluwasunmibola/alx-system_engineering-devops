@@ -13,3 +13,5 @@
 5-execute: Add execute permission to the user permission of a file.
 
 6-multiple_permissions: giving multiplepermissions at once.
+
+7-everybody: givinf execute permission for all groups, owner and others.
