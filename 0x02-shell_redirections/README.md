@@ -23,3 +23,6 @@
 11-directories: counting files in a directory and sub_directory.
 
 12-newest_files: Displays 10 newest lines of a directory.
+
+
+13-unique: printing unique values.
