@@ -15,3 +15,5 @@
 7-file: Creating a file and inserting text.
 
 8-cwd_state: Saving output of a command to a text.
+
+9-duplicate_last_line: DUplicating a line
