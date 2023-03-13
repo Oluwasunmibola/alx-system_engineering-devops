@@ -13,3 +13,5 @@
 6-third_line: Reading a specific line in a file without using the "sed".
 
 7-file: Creating a file and inserting text.
+
+8-cwd_state: Saving output of a command to a text.
