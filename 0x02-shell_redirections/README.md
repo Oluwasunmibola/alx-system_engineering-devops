@@ -28,3 +28,5 @@
 13-unique: printing unique values.
 
 14 14-findthatword: finding a word.
+
+15-countthatword: Counting number of lines.
