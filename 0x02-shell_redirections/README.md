@@ -9,3 +9,5 @@
 4-lastlines: Print the last 10 lines of a file.
 
 5-firstlines: Print the first 10 lines of a file.
+
+6-third_line: Reading a specific line in a file without using the "sed".
