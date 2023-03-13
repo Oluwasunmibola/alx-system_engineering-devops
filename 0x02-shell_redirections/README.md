@@ -21,3 +21,5 @@
 10-no_more_js: deleting files in current directory and  subfolders.
 
 11-directories: counting files in a directory and sub_directory.
+
+12-newest_files: Displays 10 newest lines of a directory.
