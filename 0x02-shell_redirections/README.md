@@ -7,3 +7,5 @@
 3-twofiles: Displaying content of two files.
 
 4-lastlines: Print the last 10 lines of a file.
+
+5-firstlines: Print the first 10 lines of a file.
