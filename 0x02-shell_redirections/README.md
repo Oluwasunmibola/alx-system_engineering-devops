@@ -17,3 +17,5 @@
 8-cwd_state: Saving output of a command to a text.
 
 9-duplicate_last_line: DUplicating a line
+
+10-no_more_js: deleting files in current directory and  subfolders.
