@@ -30,3 +30,5 @@
 14 14-findthatword: finding a word.
 
 15-countthatword: Counting number of lines.
+
+16-whatsnext: COde to display lines containing patterns.
