@@ -19,3 +19,5 @@
 9-duplicate_last_line: DUplicating a line
 
 10-no_more_js: deleting files in current directory and  subfolders.
+
+11-directories: counting files in a directory and sub_directory.
