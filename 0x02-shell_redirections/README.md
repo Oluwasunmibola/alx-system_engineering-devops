@@ -42,3 +42,5 @@
 20-hiago: Removing a particular letter from an input.
 
 21-reverse: Reversing input.
+
+22-users_and_homes: Display all users and their home directories.
