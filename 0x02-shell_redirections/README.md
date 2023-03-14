@@ -33,4 +33,6 @@
 
 16-whatsnext: COde to display lines containing patterns.
 
+17-hidethisword: Display lines that do not contain a certain word.
 
+18-letteronly: Display lines starting with a particular letter.
