@@ -36,3 +36,5 @@
 17-hidethisword: Display lines that do not contain a certain word.
 
 18-letteronly: Display lines starting with a particular letter.
+
+19-AZ: Replacing characters.
