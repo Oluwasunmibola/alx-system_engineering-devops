@@ -40,3 +40,5 @@
 19-AZ: Replacing characters.
 
 20-hiago: Removing a particular letter from an input.
+
+21-reverse: Reversing input.
