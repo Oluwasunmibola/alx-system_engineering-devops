@@ -38,3 +38,5 @@
 18-letteronly: Display lines starting with a particular letter.
 
 19-AZ: Replacing characters.
+
+20-hiago: Removing a particular letter from an input.
